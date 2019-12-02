@@ -346,11 +346,4 @@ namespace USBCam
 
         }
 
-        /*private void trackBar1_Scroll(object sender, EventArgs e)
-{
-
-} */
-    }
-}
-
 // https://www.mesta-automation.com/getting-started-with-computer-vision-in-c-sharp/
